@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: net.javaguides.springboot.SpringbootRestfulWebservicesApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.332 s <<< FAILURE! - in net.javaguides.springboot.SpringbootRestfulWebservicesApplicationTests
+net.javaguides.springboot.SpringbootRestfulWebservicesApplicationTests  Time elapsed: 0.331 s  <<< ERROR!
+java.lang.NoSuchMethodError: 'org.junit.jupiter.api.extension.ExecutableInvoker org.junit.jupiter.api.extension.ExtensionContext.getExecutableInvoker()'
+
